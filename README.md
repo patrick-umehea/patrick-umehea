@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**patrick-umehea/patrick-umehea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Patrick Umehea
 
 ##  Data Analyst | Power BI | Excel | SQL
